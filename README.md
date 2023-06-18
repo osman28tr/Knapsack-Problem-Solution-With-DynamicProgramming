@@ -10,3 +10,4 @@ dökümanına göz atabilirsiniz.
 
 Kullanılan Dil: C#
 
+Kullanılan girdi dosyalarını bin->debug klasörünün içerisinde bulabilirsiniz.(ks_4_0.txt,ks_19_0.txt ...)
