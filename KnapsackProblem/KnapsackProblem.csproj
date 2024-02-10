@@ -50,10 +50,13 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
-    <Content Include="bin\Debug\ks_10000_0.txt" />
-    <Content Include="bin\Debug\ks_19_0.txt" />
-    <Content Include="bin\Debug\ks_200_0.txt" />
-    <Content Include="bin\Debug\ks_4_0.txt" />
+    <Folder Include="bin\Debug\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Datas\ks_10000_0.txt" />
+    <Content Include="Datas\ks_19_0.txt" />
+    <Content Include="Datas\ks_200_0.txt" />
+    <Content Include="Datas\ks_4_0.txt" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
