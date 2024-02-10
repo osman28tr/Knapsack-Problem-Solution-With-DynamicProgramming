@@ -4,6 +4,8 @@ Dinamik programlama düşük boyutlu dosyalar için en iyi çözümü üretir an
 dosyalar için bu işlem oldukça maliyetli olacaktır bunun yerine farklı algoritmalar(ör:greedy,evrimsel algoritmalar vs.)tercih edilebilir.</p>
 <b>Örnek:</b>
 <img src="KnapsackProblem/Images/knapsackproblem.PNG">
+<br><br>
+<img src="KnapsackProblem/Images/knapsackproblem3.PNG">
 
 <h3>1. Geliştirme Ortamı ve Kullanılan Dil</h3>
 Visual Studio (Console Application (.Net)) - C#
