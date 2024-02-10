@@ -18,7 +18,7 @@ namespace KnapsackProblem
             string currentDirectory = Directory.GetCurrentDirectory();
             string binDebugPath = Path.Combine("bin", "Debug");
             string dosyaYolu = currentDirectory.Replace(binDebugPath, "");
-            dosyaYolu = Path.Combine(dosyaYolu, "Datas", "ks_19_0.txt");
+            dosyaYolu = Path.Combine(dosyaYolu, "Datas", "ks_4_0.txt");
 
             var streamReader = new StreamReader(dosyaYolu);
 
