@@ -1,4 +1,4 @@
-<h1>Knapsack Problem(Sırt Çantası Problemi)</h1>
+<h1>Algoritma Analizi ve Tasarımı Dersi - Knapsack Problem(Sırt Çantası Problemi)</h1>
 <p align="justify">Knapsack problem(sırt çantası problemi), ağırlıkları ve değerleri verilen bir dizi eşyanın(nesnenin) belirli kapasiteli çantaya toplam değerin en yüksek olacak şekilde ve çantanın kapasitesini aşmayarak ağırlık ve değerlerin göz önünde bulundurulmasıyla bu eşyaları çantaya en optimal şekilde yerleştirme problemidir. Bu ödevin amacı ise işte bu en optimal sonucu bularak hangi eşyaların çantaya yerleştirilmesi ve bu süreçte zamanı da verimli bir şekilde kullanıp en az maliyetle bu problemi çözmektir. Bu projede ise Knapsack Problem(Sırt Çantası Problemi)'nin dinamik programlama ile çözümü ele alınmıştır.
 Dinamik programlama düşük boyutlu dosyalar için en iyi çözümü üretir ancak yüksek boyutlu 
 dosyalar için bu işlem oldukça maliyetli olacaktır bunun yerine farklı algoritmalar(ör:greedy,evrimsel algoritmalar vs.)tercih edilebilir.</p>
